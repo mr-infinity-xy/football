@@ -1,0 +1,6 @@
+development:
+  adapter: postgresql
+  database: football
+  pool: 5
+  username: postgres
+  password: postgres
